@@ -1,7 +1,7 @@
 # 2024 PKU Machine Learning Project
 
 ## Goal
-复现论文Optimization and Identification of Lattice Quantizers的结果。
+复现论文Optimization and Identification of Lattice Quantizers.pdf的结果。
 
 ## Environment
 没有特别要求，基本上是Python+Numpy+Matplotlib+Scipy。
